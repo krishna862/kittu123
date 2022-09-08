@@ -1,6 +1,11 @@
 
+<employee>
+	<name>krishna</name>
+	<age>21</age>
+</employee>
+
 <product>
 	<name>laptop</name>
-	<price>62000</price>
+	<price>62000></price>
 </product>
 
